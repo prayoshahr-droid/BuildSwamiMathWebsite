@@ -1,0 +1,10 @@
+{
+  "description": "Explore Shree Swami Samarth Maharaj Math’s history, live darshan, festivals, seva registration, donations, and visitor information in one place.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
